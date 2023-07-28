@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "7544bdff0bcab36b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f309f314a1c8b31a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2e63eb8f85d2936",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "0b702b5d0e9db839",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "法向量.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "25f6099a2843f56d",
+    "type": "split",
+    "children": [
+      {
+        "id": "72704d8ff4fe02e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5476174d84bba2f1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a03fbc7578c9b9b3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1e742fc003a8bb14",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "97fd28c6b3f71fcd",
+    "type": "split",
+    "children": [
+      {
+        "id": "a92de80fef641d87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ca69f1c49523738",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "法向量.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "1ab7fa9f930f9bf2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "法向量.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "af90dc70de178548",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "97001500cf612917",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "法向量.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "0b702b5d0e9db839",
+  "lastOpenFiles": [
+    "漫反射光照.md",
+    "法向量.md",
+    "基础光照.md",
+    "环境光照.md",
+    "OpenGL.md",
+    "片段.md",
+    "顶点.md",
+    "顶点属性.md",
+    "图形渲染管线.md",
+    "软件包管理器.md",
+    "着色器.md",
+    "GLAD.md",
+    "Ninja.md",
+    "GLFW.md",
+    "CMake.md",
+    "顶点数据.md",
+    "附件/hellowindow.png",
+    "附件/Pasted image 20230711204211.png",
+    "通过 OpenGL 创建窗口.md",
+    "附件"
+  ]
+}
